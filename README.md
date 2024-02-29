@@ -1,5 +1,6 @@
 # Hi there 👋, My name is Antonio
 
+<p><img src="https://visitcount.itsvg.in/api?id=Astappetto02&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
 
 ## 💻 Skills
 <p align = center>
@@ -28,4 +29,4 @@
 
 <p align = center><img src="https://github-readme-streak-stats.herokuapp.com/?user=Astappetto02"><p>
 
-<p><img src="https://visitcount.itsvg.in/api?id=Astappetto02&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+
