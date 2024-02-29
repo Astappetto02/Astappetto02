@@ -1,6 +1,5 @@
 # Hi there 👋, My name is Antonio
 
-## 💫 Liitle Bit More About Me
 
 ## 💻 Skills
 <p>
@@ -14,13 +13,6 @@
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 👥 Connect With Me
-<p>
-</p>
-
-## 🌟 Github Badges
-<p>
-</p>
 
 ## 🏆 GitHub Trophies
 
