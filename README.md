@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Astappetto02](https://github-readme-stats.vercel.app/api?username=Astappetto02)](https://github.com/anuraghazra/github-readme-stats)
+[![Astappetto02](https://github-readme-stats.vercel.app/api?username=Astappetto02&locale=it)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
