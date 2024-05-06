@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"  /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Antonio</h1>
-<h3 align="center">A computer science student</h3>
+<h1 align="center">Hi there! 👋 I'm Antonio</h1>
+<h3 align="center">Computer Science Student | Passionate Learner | Aspiring Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astappetto02&label=Profile%20views&color=169e3a&style=plastic" alt="astappetto02" /> </p>
@@ -16,6 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astappetto02&show_icons=true&theme=dracula&locale=en" alt="astappetto02" /></p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astappetto02&show_icons=true&theme=dracula&locale=en&layout=compact" alt="astappetto02" /></p>
+<br>
 
 
 
